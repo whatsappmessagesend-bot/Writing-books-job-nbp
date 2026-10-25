@@ -26,7 +26,7 @@ const META_GRAPH_VERSION =
   process.env.META_GRAPH_VERSION || "v24.0";
 
 const META_EVENT_NAME =
-  process.env.META_EVENT_NAME || "Subscribe";
+  process.env.META_EVENT_NAME || "Lead";
 
 const APP_URL =
   process.env.APP_URL ||
